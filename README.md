@@ -261,6 +261,7 @@ de login foram construídos por outras pessoas do time. O que eu fiz:
 - **Setores e subsetores em quantos níveis o escritório precisar**, com a soma dos subsetores no setor
   principal.
 - **Tarefa nasce pelo tipo** e cada linha dos workflows de intimação tem o seu tipo de atividade.
+- **Deploy em produção** das versões do Átrio no servidor do escritório.
 - Correções pontuais no Financeiro (casamento de créditos com a linha de pagamento, status "não
   localizado" e dispensa do alerta de possível compra em dobro na fatura do cartão).
 

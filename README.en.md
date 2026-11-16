@@ -263,6 +263,7 @@ built by other team members. What I did:
 - **Departments and sub-departments at any depth**, with sub-departments rolling up into the parent.
 - **Tasks are created from their type**, and every line of the court-notice workflows has its own
   activity type.
+- **Production deploys** of Átrio releases to the firm's server.
 - Targeted fixes in Finance (matching credits to their payment line, the "not located" status, and
   dismissing the possible-duplicate-purchase alert on card invoices).
 
